@@ -16,7 +16,7 @@ function BookFigure() {
           />
         </Col>
         <Col xs={10} className='text-center'>
-          <h2>The EKG Guidebook</h2>
+          <h1>The EKG Guidebook</h1>
           <p className='lead'>By: Mikel Capillari</p>
         </Col>
         <Col xs={10}>
