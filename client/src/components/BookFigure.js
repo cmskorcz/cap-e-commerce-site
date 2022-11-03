@@ -6,7 +6,7 @@ import Button from 'react-bootstrap/Button'
 
 function BookFigure() {
   return (
-    <Container>
+    <Container className='mb-3'>
       <Row className='justify-content-center'>
         <Col xs={10}>
           <Image 
